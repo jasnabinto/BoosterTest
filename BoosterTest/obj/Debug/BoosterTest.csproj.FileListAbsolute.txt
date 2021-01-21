@@ -18,3 +18,13 @@ C:\Users\la-jjoseph\Desktop\BoosterTest\BoosterTest\BoosterTest\obj\Debug\Booste
 C:\Users\la-jjoseph\Desktop\BoosterTest\BoosterTest\BoosterTest\obj\Debug\BoosterTest.csproj.CopyComplete
 C:\Users\la-jjoseph\Desktop\BoosterTest\BoosterTest\BoosterTest\obj\Debug\BoosterTest.exe
 C:\Users\la-jjoseph\Desktop\BoosterTest\BoosterTest\BoosterTest\obj\Debug\BoosterTest.pdb
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\bin\Debug\BoosterTest.exe.config
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\bin\Debug\BoosterTest.exe
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\bin\Debug\BoosterTest.pdb
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\bin\Debug\DevTest.dll
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\bin\Debug\NLipsum.Core.dll
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\obj\Debug\BoosterTest.csprojAssemblyReference.cache
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\obj\Debug\BoosterTest.csproj.CoreCompileInputs.cache
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\obj\Debug\BoosterTest.csproj.CopyComplete
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\obj\Debug\BoosterTest.exe
+C:\Users\la-jjoseph\source\repos\jasnabinto\BoosterTest\BoosterTest\obj\Debug\BoosterTest.pdb
